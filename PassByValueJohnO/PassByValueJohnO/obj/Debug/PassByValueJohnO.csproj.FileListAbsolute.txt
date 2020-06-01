@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\PassByValueJohnO\PassByValueJohnO\bin\Debug\PassByValueJohnO.exe.config
+C:\Users\mails\source\repos\PassByValueJohnO\PassByValueJohnO\bin\Debug\PassByValueJohnO.exe
+C:\Users\mails\source\repos\PassByValueJohnO\PassByValueJohnO\bin\Debug\PassByValueJohnO.pdb
+C:\Users\mails\source\repos\PassByValueJohnO\PassByValueJohnO\obj\Debug\PassByValueJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\PassByValueJohnO\PassByValueJohnO\obj\Debug\PassByValueJohnO.frmPassByValue.resources
+C:\Users\mails\source\repos\PassByValueJohnO\PassByValueJohnO\obj\Debug\PassByValueJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\PassByValueJohnO\PassByValueJohnO\obj\Debug\PassByValueJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\PassByValueJohnO\PassByValueJohnO\obj\Debug\PassByValueJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\PassByValueJohnO\PassByValueJohnO\obj\Debug\PassByValueJohnO.exe
+C:\Users\mails\source\repos\PassByValueJohnO\PassByValueJohnO\obj\Debug\PassByValueJohnO.pdb
