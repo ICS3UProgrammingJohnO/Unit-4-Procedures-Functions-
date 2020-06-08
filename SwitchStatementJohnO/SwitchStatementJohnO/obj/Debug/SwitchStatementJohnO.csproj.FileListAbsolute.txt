@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\SwitchStatementJohnO\SwitchStatementJohnO\bin\Debug\SwitchStatementJohnO.exe.config
+C:\Users\mails\source\repos\SwitchStatementJohnO\SwitchStatementJohnO\bin\Debug\SwitchStatementJohnO.exe
+C:\Users\mails\source\repos\SwitchStatementJohnO\SwitchStatementJohnO\bin\Debug\SwitchStatementJohnO.pdb
+C:\Users\mails\source\repos\SwitchStatementJohnO\SwitchStatementJohnO\obj\Debug\SwitchStatementJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\SwitchStatementJohnO\SwitchStatementJohnO\obj\Debug\SwitchStatementJohnO.frmSwitchStatement.resources
+C:\Users\mails\source\repos\SwitchStatementJohnO\SwitchStatementJohnO\obj\Debug\SwitchStatementJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\SwitchStatementJohnO\SwitchStatementJohnO\obj\Debug\SwitchStatementJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\SwitchStatementJohnO\SwitchStatementJohnO\obj\Debug\SwitchStatementJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\SwitchStatementJohnO\SwitchStatementJohnO\obj\Debug\SwitchStatementJohnO.exe
+C:\Users\mails\source\repos\SwitchStatementJohnO\SwitchStatementJohnO\obj\Debug\SwitchStatementJohnO.pdb
