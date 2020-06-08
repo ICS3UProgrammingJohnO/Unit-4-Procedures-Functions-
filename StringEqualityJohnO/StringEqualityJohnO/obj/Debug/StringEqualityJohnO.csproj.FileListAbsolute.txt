@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\StringEqualityJohnO\StringEqualityJohnO\bin\Debug\StringEqualityJohnO.exe.config
+C:\Users\mails\source\repos\StringEqualityJohnO\StringEqualityJohnO\bin\Debug\StringEqualityJohnO.exe
+C:\Users\mails\source\repos\StringEqualityJohnO\StringEqualityJohnO\bin\Debug\StringEqualityJohnO.pdb
+C:\Users\mails\source\repos\StringEqualityJohnO\StringEqualityJohnO\obj\Debug\StringEqualityJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\StringEqualityJohnO\StringEqualityJohnO\obj\Debug\StringEqualityJohnO.frmStringEquality.resources
+C:\Users\mails\source\repos\StringEqualityJohnO\StringEqualityJohnO\obj\Debug\StringEqualityJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\StringEqualityJohnO\StringEqualityJohnO\obj\Debug\StringEqualityJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\StringEqualityJohnO\StringEqualityJohnO\obj\Debug\StringEqualityJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\StringEqualityJohnO\StringEqualityJohnO\obj\Debug\StringEqualityJohnO.exe
+C:\Users\mails\source\repos\StringEqualityJohnO\StringEqualityJohnO\obj\Debug\StringEqualityJohnO.pdb
