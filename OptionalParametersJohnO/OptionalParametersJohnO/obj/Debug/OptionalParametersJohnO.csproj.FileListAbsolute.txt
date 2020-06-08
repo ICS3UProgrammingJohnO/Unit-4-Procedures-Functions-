@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\OptionalParametersJohnO\OptionalParametersJohnO\bin\Debug\OptionalParametersJohnO.exe.config
+C:\Users\mails\source\repos\OptionalParametersJohnO\OptionalParametersJohnO\bin\Debug\OptionalParametersJohnO.exe
+C:\Users\mails\source\repos\OptionalParametersJohnO\OptionalParametersJohnO\bin\Debug\OptionalParametersJohnO.pdb
+C:\Users\mails\source\repos\OptionalParametersJohnO\OptionalParametersJohnO\obj\Debug\OptionalParametersJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\OptionalParametersJohnO\OptionalParametersJohnO\obj\Debug\OptionalParametersJohnO.frmOptionalParameters.resources
+C:\Users\mails\source\repos\OptionalParametersJohnO\OptionalParametersJohnO\obj\Debug\OptionalParametersJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\OptionalParametersJohnO\OptionalParametersJohnO\obj\Debug\OptionalParametersJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\OptionalParametersJohnO\OptionalParametersJohnO\obj\Debug\OptionalParametersJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\OptionalParametersJohnO\OptionalParametersJohnO\obj\Debug\OptionalParametersJohnO.exe
+C:\Users\mails\source\repos\OptionalParametersJohnO\OptionalParametersJohnO\obj\Debug\OptionalParametersJohnO.pdb
