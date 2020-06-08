@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\HypotenuseJohnO\HypotenuseJohnO\bin\Debug\HypotenuseJohnO.exe.config
+C:\Users\mails\source\repos\HypotenuseJohnO\HypotenuseJohnO\bin\Debug\HypotenuseJohnO.exe
+C:\Users\mails\source\repos\HypotenuseJohnO\HypotenuseJohnO\bin\Debug\HypotenuseJohnO.pdb
+C:\Users\mails\source\repos\HypotenuseJohnO\HypotenuseJohnO\obj\Debug\HypotenuseJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\HypotenuseJohnO\HypotenuseJohnO\obj\Debug\HypotenuseJohnO.frmHypotenuse.resources
+C:\Users\mails\source\repos\HypotenuseJohnO\HypotenuseJohnO\obj\Debug\HypotenuseJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\HypotenuseJohnO\HypotenuseJohnO\obj\Debug\HypotenuseJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\HypotenuseJohnO\HypotenuseJohnO\obj\Debug\HypotenuseJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\HypotenuseJohnO\HypotenuseJohnO\obj\Debug\HypotenuseJohnO.exe
+C:\Users\mails\source\repos\HypotenuseJohnO\HypotenuseJohnO\obj\Debug\HypotenuseJohnO.pdb
