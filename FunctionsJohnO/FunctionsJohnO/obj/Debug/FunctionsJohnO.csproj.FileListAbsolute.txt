@@ -1,0 +1,10 @@
+C:\Users\mails\source\repos\FunctionsJohnO\FunctionsJohnO\bin\Debug\FunctionsJohnO.exe.config
+C:\Users\mails\source\repos\FunctionsJohnO\FunctionsJohnO\bin\Debug\FunctionsJohnO.exe
+C:\Users\mails\source\repos\FunctionsJohnO\FunctionsJohnO\bin\Debug\FunctionsJohnO.pdb
+C:\Users\mails\source\repos\FunctionsJohnO\FunctionsJohnO\obj\Debug\FunctionsJohnO.csprojAssemblyReference.cache
+C:\Users\mails\source\repos\FunctionsJohnO\FunctionsJohnO\obj\Debug\FunctionsJohnO.frmFunctions.resources
+C:\Users\mails\source\repos\FunctionsJohnO\FunctionsJohnO\obj\Debug\FunctionsJohnO.Properties.Resources.resources
+C:\Users\mails\source\repos\FunctionsJohnO\FunctionsJohnO\obj\Debug\FunctionsJohnO.csproj.GenerateResource.cache
+C:\Users\mails\source\repos\FunctionsJohnO\FunctionsJohnO\obj\Debug\FunctionsJohnO.csproj.CoreCompileInputs.cache
+C:\Users\mails\source\repos\FunctionsJohnO\FunctionsJohnO\obj\Debug\FunctionsJohnO.exe
+C:\Users\mails\source\repos\FunctionsJohnO\FunctionsJohnO\obj\Debug\FunctionsJohnO.pdb
